@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-'''Pretty print the ACL of a secret.'''
+'''Deletes an identity and all related information.'''
 
 import random
 import sys
